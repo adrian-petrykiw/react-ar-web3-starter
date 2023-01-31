@@ -1,10 +1,11 @@
 # Monkey Mayhem
 
-:earth_americas: [Live App Here](https://react-ar-web3-starter.vercel.app/)
 
 ## Getting started
 
-To test out the application 
+Test the application on your mobile phone
+
+[Live App Here](https://react-ar-web3-starter.vercel.app/) on your mobile phone
 
 ## Contact Us
 
