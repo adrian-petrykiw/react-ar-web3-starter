@@ -81,7 +81,6 @@ const ArPage = () => {
       </Grid>  
       <Center>
           <Box
-          // style={{ height: "75vh", width: "100vw" }}
           dangerouslySetInnerHTML={{
             __html: `<iframe
             id="my-iframe"

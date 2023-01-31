@@ -1,4 +1,4 @@
-# React AR Web3 Starter
+# Monkey Mayhem
 
 :earth_americas: [Live App Here](https://react-ar-web3-starter.vercel.app/)
 
@@ -8,52 +8,6 @@ To make it easy for you to get started with [8thWall](https://www.8thwall.com/) 
 
 This example assumes you have access to an 8thWall workspace through the[Lightship VPS World Tour](https://lightship.dev/blog/announcing-lightship-vps-world-tour/), an [8thWall free trial](https://www.8thwall.com/start-your-free-trial), or paid account. You will also need a github account which will make deploying to vercel easy and most likely free.
 
-## Installation
-
-- [ ] Clone this repository
-
-  ```
-  git clone --- INSERT PUBLIC REPO URL HERE ---
-  cd react-ar-web3-starter
-  yarn
-  ```
-
-- [ ] Install [mkcert](https://github.com/FiloSottile/mkcert) globally, please click mkcert link to see docs for Linux and Windows.
-
-  On macOS, use [Homebrew](https://brew.sh/)
-
-  ```
-  brew install mkcert
-  brew install nss # if you use Firefox
-  ```
-
-  or [MacPorts](https://www.macports.org/).
-
-  ```
-  sudo port selfupdate
-  sudo port install mkcert
-  sudo port install nss # if you use Firefox
-  ```
-
-- [ ] Generate a certificate with key by running the following command in the src directory of this repo.
-
-  ```
-  mkcert localhost
-  ```
-
-- [ ] Start server
-
-  ```
-  node server.js
-  ```
-
-  What's going on? Learn more [here](https://dev.to/nakib/using-https-on-next-js-local-development-server-bcd), medium article overview of mkcert installation.
-
-- [ ] setup 8thWall account
-
-- [ ] setup wallet connect or web3Auth (formerly Torus)
-
-## Deployment
 
 - [ ] When you're ready to deploy head over to [Vercel](https://vercel.com/dashboard) and sign-in/sign-up with the account where your repository is; github, gitlab, etc.
 
