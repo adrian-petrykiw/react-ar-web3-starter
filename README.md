@@ -5,7 +5,7 @@
 
 Test the application on your mobile phone
 
-[Live App Here](https://react-ar-web3-starter.vercel.app/) on your mobile phone
+[Live App Here](https://react-ar-web3-starter.vercel.app/)
 
 ## Contact Us
 
