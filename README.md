@@ -4,9 +4,15 @@
 
 ## Getting started
 
-To make it easy for you to get started with [8thWall](https://www.8thwall.com/) AR for web and Web3 here's a repo to get you up and running with a [self-hosted](https://www.8thwall.com/docs/web/#self-hosted-domains) version of 8thWall. It includes some pre-configured web3 libraries and it is built using [Next.js](https://nextjs.org/) so you can deploy easily to [Vercel](https://vercel.com/)!
+To test out the application 
 
-This example assumes you have access to an 8thWall workspace through the[Lightship VPS World Tour](https://lightship.dev/blog/announcing-lightship-vps-world-tour/), an [8thWall free trial](https://www.8thwall.com/start-your-free-trial), or paid account. You will also need a github account which will make deploying to vercel easy and most likely free.
+## Contact Us
+
+Send us an email at:
+
+
+
+
 
 
 - [ ] When you're ready to deploy head over to [Vercel](https://vercel.com/dashboard) and sign-in/sign-up with the account where your repository is; github, gitlab, etc.
